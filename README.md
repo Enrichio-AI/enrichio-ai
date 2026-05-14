@@ -107,17 +107,6 @@ Built specifically for Shopify SEO workflows and eCommerce performance.
 
 ---
 
-## 📸 Screenshots
-
-Add your application screenshots here.
-
-```md id="shots"
-screenshots/dashboard.png
-screenshots/content-generator.png
-```
-
----
-
 ## 🔐 Security
 
 Enrichio follows Shopify authentication and security best practices.
