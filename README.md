@@ -17,7 +17,6 @@ Built for modern Shopify brands that want scalable content generation without sa
 * ⚡ Bulk content generation
 * 🎯 Smart keyword optimization
 * 🛍️ Shopify-native workflow
-* 🌍 Multi-language support
 * 🧠 Brand-aware content generation
 * 📈 Conversion-focused product copy
 * 🔄 One-click regenerate & improve
