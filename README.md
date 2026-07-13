@@ -109,12 +109,9 @@ Built specifically for Shopify SEO workflows and eCommerce performance.
 
 ## 📸 Screenshots
 
-Add your application screenshots here.
+![Dashboard](screenshots/dashboard.png)
 
-```md id="shots"
-screenshots/dashboard.png
-screenshots/content-generator.png
-```
+![Content Generator](screenshots/generated-content.png)
 
 ---
 
